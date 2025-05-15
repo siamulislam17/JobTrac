@@ -1,0 +1,668 @@
+[
+    {
+        "id": "1",
+        "name": "Microsoft",
+        "logo": "https://i.ibb.co/3xQky8P/vecteezy-microsoft-icon-logo-symbol-28339963.png",
+        "location": "New York, USA",
+        "website": "https://technova.com",
+        "industry": "AI & ML",
+        "jobs": [
+            {
+                "id": "job-1-1",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "London, UK",
+                "salary": "$90k-$120k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Excellent problem-solving skills",
+                    "Good understanding of responsive design",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Experience with React or Vue.js"
+                ]
+            },
+            {
+                "id": "job-1-2",
+                "title": "DevOps Engineer",
+                "bannerImage": "https://i.ibb.co/m5v1vsvL/istockphoto-1303169188-612x612.jpg",
+                "location": "New York, USA",
+                "salary": "$50k-$70k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Good understanding of responsive design",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Experience with React or Vue.js",
+                    "Excellent problem-solving skills"
+                ]
+            },
+            {
+                "id": "job-1-3",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$50k-$70k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Familiarity with RESTful APIs",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Excellent problem-solving skills",
+                    "Knowledge of backend frameworks like Node.js or Django"
+                ]
+            },
+            {
+                "id": "job-1-4",
+                "title": "Frontend Developer",
+                "bannerImage": "https://i.ibb.co/4nF6R4Mh/pexels-divinetechygirl-1181271.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$50k-$70k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Experience with React or Vue.js",
+                    "Strong communication and collaboration skills",
+                    "Good understanding of responsive design",
+                    "Proficient in HTML, CSS, and JavaScript"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "GooGle",
+        "logo": "https://i.ibb.co/cSpX3qYV/7123025-logo-google-g-icon.png",
+        "location": "New York, USA",
+        "website": "https://cloudsphere.com",
+        "industry": "FinTech",
+        "jobs": [
+            {
+                "id": "job-2-1",
+                "title": "DevOps Engineer",
+                "bannerImage": "https://i.ibb.co/m5v1vsvL/istockphoto-1303169188-612x612.jpg",
+                "location": "Remote",
+                "salary": "$50k-$70k",
+                "jobType": "Contract",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Familiarity with RESTful APIs",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Strong communication and collaboration skills",
+                    "Excellent problem-solving skills",
+                    "Experience with React or Vue.js"
+                ]
+            },
+            {
+                "id": "job-2-2",
+                "title": "Frontend Developer",
+                "bannerImage": "https://i.ibb.co/4nF6R4Mh/pexels-divinetechygirl-1181271.jpg",
+                "location": "London, UK",
+                "salary": "$70k-$100k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Familiarity with RESTful APIs",
+                    "Experience with React or Vue.js",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Strong communication and collaboration skills",
+                    "Good understanding of responsive design"
+                ]
+            },
+            {
+                "id": "job-2-3",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/MyNz610b/remote-product-manager-1.png",
+                "location": "New York, USA",
+                "salary": "$60k-$80k",
+                "jobType": "Contract",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Experience with React or Vue.js",
+                    "Familiarity with RESTful APIs",
+                    "Strong communication and collaboration skills",
+                    "Excellent problem-solving skills"
+                ]
+            },
+            {
+                "id": "job-2-4",
+                "title": "DevOps Engineer",
+                "bannerImage": "https://i.ibb.co/m5v1vsvL/istockphoto-1303169188-612x612.jpg",
+                "location": "Remote",
+                "salary": "$50k-$70k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Excellent problem-solving skills",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Experience with React or Vue.js",
+                    "Good understanding of responsive design"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Meta",
+        "logo": "https://i.ibb.co/WvXFFs4Z/9041248-meta-icon.png",
+        "location": "Toronto, Canada",
+        "website": "https://finedge.com",
+        "industry": "Green Tech",
+        "jobs": [
+            {
+                "id": "job-3-1",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "Sydney, Australia",
+                "salary": "$60k-$80k",
+                "jobType": "Internship",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Excellent problem-solving skills",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Strong communication and collaboration skills",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Good understanding of responsive design"
+                ]
+            },
+            {
+                "id": "job-3-2",
+                "title": "Backend Developer",
+                "bannerImage": "https://i.ibb.co/ksG4dyrk/growtika-Nz0-Lo-JB4d0g-unsplash.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$70k-$100k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Excellent problem-solving skills",
+                    "Good understanding of responsive design",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Strong communication and collaboration skills"
+                ]
+            },
+            {
+                "id": "job-3-3",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "Sydney, Australia",
+                "salary": "$70k-$100k",
+                "jobType": "Internship",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with React or Vue.js",
+                    "Good understanding of responsive design",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Excellent problem-solving skills"
+                ]
+            },
+            {
+                "id": "job-3-4",
+                "title": "UI/UX Designer",
+                "bannerImage": "https://i.ibb.co/99m3JpQ5/images.jpg",
+                "location": "New York, USA",
+                "salary": "$70k-$100k",
+                "jobType": "Contract",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Strong communication and collaboration skills",
+                    "Experience with React or Vue.js",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Excellent problem-solving skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Amazon",
+        "logo": "https://i.ibb.co/whhCVMT3/294695-amazon-icon.png",
+        "location": "Berlin, Germany",
+        "website": "https://datanest.com",
+        "industry": "Software Development",
+        "jobs": [
+            {
+                "id": "job-4-1",
+                "title": "Frontend Developer",
+                "bannerImage": "https://i.ibb.co/4nF6R4Mh/pexels-divinetechygirl-1181271.jpg",
+                "location": "Berlin, Germany",
+                "salary": "$70k-$100k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with React or Vue.js",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Excellent problem-solving skills",
+                    "Strong communication and collaboration skills"
+                ]
+            },
+            {
+                "id": "job-4-2",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "New York, USA",
+                "salary": "$60k-$80k",
+                "jobType": "Internship",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Good understanding of responsive design",
+                    "Experience with React or Vue.js",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Knowledge of backend frameworks like Node.js or Django"
+                ]
+            },
+            {
+                "id": "job-4-3",
+                "title": "Frontend Developer",
+                "bannerImage": "https://i.ibb.co/4nF6R4Mh/pexels-divinetechygirl-1181271.jpg",
+                "location": "Berlin, Germany",
+                "salary": "$60k-$80k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Good understanding of responsive design",
+                    "Experience with React or Vue.js",
+                    "Excellent problem-solving skills",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Familiarity with RESTful APIs"
+                ]
+            },
+            {
+                "id": "job-4-4",
+                "title": "Backend Developer",
+                "bannerImage": "https://i.ibb.co/ksG4dyrk/growtika-Nz0-Lo-JB4d0g-unsplash.jpg",
+                "location": "Sydney, Australia",
+                "salary": "$50k-$70k",
+                "jobType": "Internship",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Good understanding of responsive design",
+                    "Strong communication and collaboration skills",
+                    "Familiarity with RESTful APIs",
+                    "Experience with cloud platforms like AWS or Azure"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Alibaba",
+        "logo": "https://i.ibb.co/Nn1bRPMs/5869378-alibaba-ecommerce-shopping-icon.png",
+        "location": "New York, USA",
+        "website": "https://greenbyte.com",
+        "industry": "AI & ML",
+        "jobs": [
+            {
+                "id": "job-5-1",
+                "title": "Frontend Developer",
+                "bannerImage": "https://i.ibb.co/4nF6R4Mh/pexels-divinetechygirl-1181271.jpg",
+                "location": "London, UK",
+                "salary": "$90k-$120k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Strong communication and collaboration skills",
+                    "Good understanding of responsive design",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Experience with React or Vue.js"
+                ]
+            },
+            {
+                "id": "job-5-2",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "New York, USA",
+                "salary": "$50k-$70k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Strong communication and collaboration skills",
+                    "Excellent problem-solving skills",
+                    "Familiarity with RESTful APIs"
+                ]
+            },
+            {
+                "id": "job-5-3",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/MyNz610b/remote-product-manager-1.png",
+                "location": "London, UK",
+                "salary": "$60k-$80k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Good understanding of responsive design",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Strong communication and collaboration skills",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Experience with cloud platforms like AWS or Azure"
+                ]
+            },
+            {
+                "id": "job-5-4",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/MyNz610b/remote-product-manager-1.png",
+                "location": "Remote",
+                "salary": "$70k-$100k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Strong communication and collaboration skills",
+                    "Good understanding of responsive design",
+                    "Familiarity with RESTful APIs",
+                    "Experience with cloud platforms like AWS or Azure"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "SpaceX",
+        "logo": "https://i.ibb.co/qYNG7JjK/7287705-spacex-starship-rocket-elon-musk-icon.png",
+        "location": "Berlin, Germany",
+        "website": "https://smartchain.com",
+        "industry": "Software Development",
+        "jobs": [
+            {
+                "id": "job-6-1",
+                "title": "Backend Developer",
+                "bannerImage": "https://i.ibb.co/ksG4dyrk/growtika-Nz0-Lo-JB4d0g-unsplash.jpg",
+                "location": "London, UK",
+                "salary": "$90k-$120k",
+                "jobType": "Internship",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Strong communication and collaboration skills",
+                    "Familiarity with RESTful APIs",
+                    "Excellent problem-solving skills",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Knowledge of backend frameworks like Node.js or Django"
+                ]
+            },
+            {
+                "id": "job-6-2",
+                "title": "Backend Developer",
+                "bannerImage": "https://i.ibb.co/ksG4dyrk/growtika-Nz0-Lo-JB4d0g-unsplash.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$60k-$80k",
+                "jobType": "Contract",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Experience with React or Vue.js",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Familiarity with RESTful APIs",
+                    "Good understanding of responsive design"
+                ]
+            },
+            {
+                "id": "job-6-3",
+                "title": "Backend Developer",
+                "bannerImage": "https://i.ibb.co/ksG4dyrk/growtika-Nz0-Lo-JB4d0g-unsplash.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$90k-$120k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Excellent problem-solving skills",
+                    "Experience with React or Vue.js",
+                    "Familiarity with RESTful APIs"
+                ]
+            },
+            {
+                "id": "job-6-4",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "Sydney, Australia",
+                "salary": "$50k-$70k",
+                "jobType": "Internship",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Familiarity with RESTful APIs",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Good understanding of responsive design"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "NeuroSoft",
+        "logo": "https://i.ibb.co/sdZHksRJ/334621-cms-drupal-engine-applications-content-icon.png",
+        "location": "Sydney, Australia",
+        "website": "https://neurosoft.com",
+        "industry": "AI & ML",
+        "jobs": [
+            {
+                "id": "job-7-1",
+                "title": "Backend Developer",
+                "bannerImage": "https://i.ibb.co/ksG4dyrk/growtika-Nz0-Lo-JB4d0g-unsplash.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$90k-$120k",
+                "jobType": "Contract",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Excellent problem-solving skills",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Good understanding of responsive design",
+                    "Strong communication and collaboration skills",
+                    "Experience with React or Vue.js"
+                ]
+            },
+            {
+                "id": "job-7-2",
+                "title": "Backend Developer",
+                "bannerImage": "https://i.ibb.co/ksG4dyrk/growtika-Nz0-Lo-JB4d0g-unsplash.jpg",
+                "location": "New York, USA",
+                "salary": "$50k-$70k",
+                "jobType": "Contract",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Strong communication and collaboration skills",
+                    "Good understanding of responsive design",
+                    "Familiarity with RESTful APIs",
+                    "Experience with React or Vue.js",
+                    "Experience with cloud platforms like AWS or Azure"
+                ]
+            },
+            {
+                "id": "job-7-3",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "Berlin, Germany",
+                "salary": "$90k-$120k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with React or Vue.js",
+                    "Excellent problem-solving skills",
+                    "Familiarity with RESTful APIs",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Proficient in HTML, CSS, and JavaScript"
+                ]
+            },
+            {
+                "id": "job-7-4",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/MyNz610b/remote-product-manager-1.png",
+                "location": "London, UK",
+                "salary": "$60k-$80k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with React or Vue.js",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Good understanding of responsive design",
+                    "Excellent problem-solving skills",
+                    "Strong communication and collaboration skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "CyberNetix",
+        "logo": "https://i.ibb.co/DPk13q3T/1743800-api-app-application-development-software-icon.png",
+        "location": "Toronto, Canada",
+        "website": "https://cybernetix.com",
+        "industry": "Green Tech",
+        "jobs": [
+            {
+                "id": "job-8-1",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/MyNz610b/remote-product-manager-1.png",
+                "location": "Remote",
+                "salary": "$70k-$100k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with React or Vue.js",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Good understanding of responsive design",
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Excellent problem-solving skills"
+                ]
+            },
+            {
+                "id": "job-8-2",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/MyNz610b/remote-product-manager-1.png",
+                "location": "New York, USA",
+                "salary": "$90k-$120k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Good understanding of responsive design",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Experience with React or Vue.js",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Excellent problem-solving skills"
+                ]
+            },
+            {
+                "id": "job-8-3",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/MyNz610b/remote-product-manager-1.png",
+                "location": "Toronto, Canada",
+                "salary": "$70k-$100k",
+                "jobType": "Internship",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Excellent problem-solving skills",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Strong communication and collaboration skills",
+                    "Experience with React or Vue.js"
+                ]
+            },
+            {
+                "id": "job-8-4",
+                "title": "UI/UX Designer",
+                "bannerImage": "https://i.ibb.co/99m3JpQ5/images.jpg",
+                "location": "Berlin, Germany",
+                "salary": "$70k-$100k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Experience with cloud platforms like AWS or Azure",
+                    "Good understanding of responsive design",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Experience with React or Vue.js",
+                    "Strong communication and collaboration skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "EcoWare",
+        "logo": "https://i.ibb.co/7dh5kWW2/7422401-ubisoft-software-application-interface-icon.png",
+        "location": "Sydney, Australia",
+        "website": "https://ecoware.com",
+        "industry": "FinTech",
+        "jobs": [
+            {
+                "id": "job-9-1",
+                "title": "Backend Developer",
+                "bannerImage": "https://i.ibb.co/ksG4dyrk/growtika-Nz0-Lo-JB4d0g-unsplash.jpg",
+                "location": "New York, USA",
+                "salary": "$70k-$100k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Familiarity with RESTful APIs",
+                    "Strong communication and collaboration skills",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Experience with React or Vue.js",
+                    "Experience with cloud platforms like AWS or Azure"
+                ]
+            },
+            {
+                "id": "job-9-2",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/zT5hhK6J/pexels-goumbik-574070.jpg",
+                "location": "New York, USA",
+                "salary": "$60k-$80k",
+                "jobType": "Part-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Familiarity with RESTful APIs",
+                    "Strong communication and collaboration skills",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Knowledge of backend frameworks like Node.js or Django",
+                    "Excellent problem-solving skills"
+                ]
+            },
+            {
+                "id": "job-9-3",
+                "title": "Frontend Developer",
+                "bannerImage": "https://i.ibb.co/4nF6R4Mh/pexels-divinetechygirl-1181271.jpg",
+                "location": "Berlin, Germany",
+                "salary": "$90k-$120k",
+                "jobType": "Full-time",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Good understanding of responsive design",
+                    "Excellent problem-solving skills",
+                    "Strong communication and collaboration skills",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Knowledge of backend frameworks like Node.js or Django"
+                ]
+            },
+            {
+                "id": "job-9-4",
+                "title": "Frontend Developer",
+                "bannerImage": "https://i.ibb.co/4nF6R4Mh/pexels-divinetechygirl-1181271.jpg",
+                "location": "Remote",
+                "salary": "$70k-$100k",
+                "jobType": "Contract",
+                "description": "We are looking for a talented and passionate individual to join our team.",
+                "requirements": [
+                    "Strong communication and collaboration skills",
+                    "Excellent problem-solving skills",
+                    "Proficient in HTML, CSS, and JavaScript",
+                    "Good understanding of responsive design",
+                    "Knowledge of backend frameworks like Node.js or Django"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+@import "tailwindcss";
+ @plugin "daisyui" {
+  themes: light --default, dark --prefersdark;
+  themes: light --default;
+ }
+
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #4b5563; /* Tailwind gray-700 */
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  transform: scale(1.05);
+  color: #9333ea; 
+}
+
+.nav-link.active {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to right, #a855f7, #ec4899); 
+} 
